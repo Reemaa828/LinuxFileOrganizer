@@ -12,7 +12,7 @@ This Bash script tackles the challenge of maintaining tidy directories by automa
 ## Getting Started 🚀
 - Save the script: Name it something descriptive, like organize_files.sh: 
 - Make it executable: `chmod +x organize_files.sh` (run this command in your terminal) or `chmod 777 organize_files.sh`
-- Run the script: ./organize_files.sh /path/to/your/directory (replace with the actual directory path).
+- Run the script: `./organize_files.sh /path/to/your/directory` (replace with the actual directory path).
 ### Commands to run it correctly
 ```shell
 sudo touch organizer.sh
