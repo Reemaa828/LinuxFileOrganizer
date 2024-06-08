@@ -4,7 +4,7 @@
 # LinuxFileOrganizer 
 
 This Bash script tackles the challenge of maintaining tidy directories by automatically sorting files based on their extensions.
-## What it Does❓
+## Features❓
 - Takes a directory path as an argument.
 - Scans files within that directory.
 - Intelligently sorts files into subdirectories based on file extensions (e.g., .txt files go to a txt subdirectory).
