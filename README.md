@@ -1,4 +1,6 @@
-# LinuxFileOrganizer 🗃️
+<img align="left" width="64" height="64" src="images/logo.svg">
+
+# LinuxFileOrganizer 
 ## Organize Your Files with Ease!
 This Bash script tackles the challenge of maintaining tidy directories by automatically sorting files based on their extensions.
 ## What it Does❓
